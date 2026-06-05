@@ -19,15 +19,19 @@ This project focuses on analyzing mental health data to uncover meaningful insig
 - **Dashboard:** Power BI / Tableau (if used)  
 - **Environment:** Jupyter Notebook
 
-# Project Structure
-- mental-health-prediction-system/
-data/ # Dataset files
-notebooks/ # Jupyter notebooks for analysis
-src/ # Source code (ML models, scripts)
-dashboard/ # Dashboard files (Power BI / Tableau)
-images/ # Screenshots of outputs
-README.md # Project documentation
-requirements.txt # Dependencies
+## Project Structure
+
+```
+mental-health-prediction-system/
+│
+├── data/              # Dataset files
+├── notebooks/         # Jupyter notebooks for analysis
+├── src/               # Source code (ML models, scripts)
+├── dashboard/         # Dashboard files (Power BI / Tableau)
+├── images/            # Screenshots of outputs
+├── README.md          # Project documentation
+└── requirements.txt   # Dependencies
+```
 
 ## Exploratory Data Analysis
 - Performed data cleaning and preprocessing  
