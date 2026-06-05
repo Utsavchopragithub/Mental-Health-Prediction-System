@@ -21,20 +21,13 @@ This project focuses on analyzing mental health data to uncover meaningful insig
 
 # Project Structure
 - mental-health-prediction-system/
-data/
-# Dataset files
-notebooks/ 
-# Jupyter notebooks for analysis
-src/ 
-# Source code (ML models, scripts)
-dashboard/ 
-# Dashboard files (Power BI / Tableau)
-images/ 
-# Screenshots of outputs
-README.md 
-# Project documentation
-requirements.txt 
-# Dependencies
+data/ # Dataset files
+notebooks/ # Jupyter notebooks for analysis
+src/ # Source code (ML models, scripts)
+dashboard/ # Dashboard files (Power BI / Tableau)
+images/ # Screenshots of outputs
+README.md # Project documentation
+requirements.txt # Dependencies
 
 ## Exploratory Data Analysis
 - Performed data cleaning and preprocessing  
