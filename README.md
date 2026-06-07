@@ -16,7 +16,7 @@ This project focuses on analyzing mental health data to uncover meaningful insig
 - **Libraries** : Pandas, NumPy  
 - **Visualization** : Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn  
-- **Dashboard:** Power BI / Tableau (if used)  
+- **Dashboard:** Power BI / Tableau  
 - **Environment:** Jupyter Notebook
 
 ## Project Structure
